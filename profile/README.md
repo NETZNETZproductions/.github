@@ -42,7 +42,7 @@ Our development pipeline utilizes an optimized stack to ensure lightning-fast lo
 
 Stay synced with the network and track our runtime status across platforms:
 
-*   **GitHub Profiles:** [@benbroc](https://github.com/NETZNETZproductions) (Main Core)
+*   **GitHub Profiles:** [@benbroc](https://github.com/benkormus) (Main Core) [@Julian442](https://github.com/julixn442) (Dev)
 *   **Discord Hub:** Join our [Community Server](https://discord.gg/mAC5auv9aQ) for live updates, support, and tech chat.
 *   **Main Landing Page:** Access the terminal at [synergystation.github.io](https://synergystation.github.io).
 
