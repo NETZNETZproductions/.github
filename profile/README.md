@@ -45,7 +45,7 @@ Stay synced with the network and track our runtime status across platforms:
 *   **GitHub Profiles:** [@benbroc](https://github.com/benkormus) (Owner) [@Julian442](https://github.com/julixn442) (Dev)
 *   **Discord Hub:** Join our [Community Server](https://dc.gg/ben) for live updates, support, and tech chat.
 *   **Main Landing Page:** Access the Website at [netznetz.xubi.org](https://netznetz.xubi.org).
-*   **Main Landing Page:** Access the Website at [tos](https://netznetz.xubi.org/tos).
+*   **Terms of Service:** of the Page [tos](https://netznetz.xubi.org/tos).
 
 ---
 <p align="center">
