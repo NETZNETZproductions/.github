@@ -15,11 +15,11 @@ At **NETZNETZproductions**, we believe in building lightweight, responsive, and 
 Our portfolio covers core landing pages, game integration platforms, and interactive interfaces:
 
 ### 🌐 Core Web Interfaces
-*   **[website](https://github.com/NETZNETZproductions/website)**
+*   **[Main Page](https://netznetz.xubi.org)**
     *   *The Main Gateway.* A sleek, highly optimized, and mobile-responsive link-in-bio hub and portfolio showcase. Built natively utilizing modern CSS features to deliver smooth UX and premium responsiveness.
 
 ### 🎮 Gaming & Infrastructure
-*   **[Voltix Server Website](https://github.com/NETZNETZproductions/voltix-website)**
+*   **[Voltix Website](https://voltix.giize.com)**
     *   *The Game Hub.* Repositories tailored for custom server environments, featuring layout engines, data parsers, and public landing pages like the legacy and ongoing `voltix-website-2.0` projects.
 
 ---
@@ -42,12 +42,12 @@ Our development pipeline utilizes an optimized stack to ensure lightning-fast lo
 
 Stay synced with the network and track our runtime status across platforms:
 
-*   **GitHub Profiles:** [@benbroc](https://github.com/benkormus) (Main Core) [@Julian442](https://github.com/julixn442) (Dev)
-*   **Discord Hub:** Join our [Community Server](https://discord.gg/mAC5auv9aQ) for live updates, support, and tech chat.
-*   **Main Landing Page:** Access the terminal at [synergystation.github.io](https://synergystation.github.io).
+*   **GitHub Profiles:** [@benbroc](https://github.com/benkormus) (Owner) [@Julian442](https://github.com/julixn442) (Dev)
+*   **Discord Hub:** Join our [Community Server](https://dc.gg/ben) for live updates, support, and tech chat.
+*   **Main Landing Page:** Access the Website at [netznetz.xubi.org](https://netznetz.xubi.org).
 
 ---
 <p align="center">
   <code>// SYSTEM STATUS: ACTIVE // DEPLOYED WITH PASSION //</code><br>
-  © 2026 NETZNETZproductions . Driven by <a href="https://github.com/NETZNETZproductions/website">OpenSource Architecture</a>.
+  © 2026 NETZNETZproductions . Made by BenKormos with ❤️.
 </p>
